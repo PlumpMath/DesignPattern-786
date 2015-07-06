@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+	<CommandType>zjj.dp.command.example.functionbundle.HelperCommand</CommandType>
+	<CommandType>zjj.dp.command.example.functionbundle.MinimizeCommand</CommandType>
+</config>
